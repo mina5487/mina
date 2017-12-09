@@ -1,0 +1,2 @@
+# mina
+GitHub Pages
